@@ -104,7 +104,7 @@ export default {
 
 
 ## Example Usage 2
-<strong>Note:</strong> vue-good-table-sample also supports Search and CURD. 
+<strong>Note:</strong> vue-good-table-sample also supports Search and CURD with function. 
 
 ```html
 <vue-good-table 
