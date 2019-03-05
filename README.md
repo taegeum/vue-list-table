@@ -1,34 +1,12 @@
 # vue-list-table
 
-> A Vue.js project
-
-## Build Setup
-
-``` bash
-# install dependencies
-npm install
-
-# serve with hot reload at localhost:8080
-npm run dev
-
-# build for production with minification
-npm run build
-
-# build for production and view the bundle analyzer report
-npm run build --report
-```
-
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
-
-
-# Vue-good-table
 A simple, clean data table for VueJS (2.x) with essential features like sorting, column filtering, pagination etc
 
 ![Basic Screenshot](https://github.com/taegeum/vue-list-table/blob/master/images/crud-table.png)
 
 ## Live Demo
 
-[vue-good-table Demo Site]()
+[vue-lood-table Demo Site]()
 
 ## Getting Started
 
@@ -52,8 +30,8 @@ import VueGoodTable from 'vue-good-table-sample';
 Vue.use(VueGoodTable);
 ```
 
-
-## Example Usage 1
+### Sample code
+#### Example Usage 1
 
 ```html
 <template>
@@ -309,3 +287,21 @@ export default {
 </script>
 ```
 This should result in the screenshot seen above
+
+### Build Setup
+
+``` bash
+# install dependencies
+npm install
+
+# serve with hot reload at localhost:8080
+npm run dev
+
+# build for production with minification
+npm run build
+
+# build for production and view the bundle analyzer report
+npm run build --report
+```
+
+For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
