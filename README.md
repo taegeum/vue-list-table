@@ -6,7 +6,7 @@ A simple, clean data table for VueJS (2.x) with essential features like sorting,
 
 ## Live Demo
 
-[vue-lood-table Demo Site]()
+[vue-list-table Demo Site]()
 
 ## Getting Started
 
